@@ -1,1 +1,8 @@
+.whale(lang)
 
+	settings{
+		status()
+		privacy()
+		}
+
+.end
