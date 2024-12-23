@@ -1,3 +1,3 @@
 # Archit
 Architecture of an empty project.
--> archit/raw/*
+![Logo](https://whale-repo.github.io/statics/images/whale.png)
